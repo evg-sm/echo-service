@@ -1,0 +1,9 @@
+server:
+  port: 8080
+
+proxy:
+  target-base-url: https://jsonplaceholder.typicode.com
+
+logging:
+  level:
+    root: info
